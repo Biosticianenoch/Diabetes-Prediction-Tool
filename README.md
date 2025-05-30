@@ -1,7 +1,4 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+**Diabetes Prediction Tool
 
 Description of the app ...
 
@@ -11,7 +8,7 @@ Description of the app ...
 
 ## GitHub Codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/Diabetes-Prediction-Tool?quickstart=1)
 
 ## Section Heading
 
